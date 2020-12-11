@@ -1,9 +1,11 @@
-#container{
-    background-color: black;
+.container{
+    background-color: white;
     /* background-position: center;
     background-repeat: no-repeat;
     background-size: cover; */
     height: 100vh;
-
-
-}
+    text-align:center; 
+    }
+    h1{
+        text-align: center;
+    }
